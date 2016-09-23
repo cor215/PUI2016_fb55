@@ -57,4 +57,26 @@ Your notebook must display
 - the data tables for the reducted datasets (first few columns)
 - the plots for each dataframe, with usual rules for plotting applying: visible and readable axes, title, legend, caption. 
 
-## Assignment 3: Finish z-test lab and turn it in as a notebook (more details in email).
+## Assignment 3: Finish z-test lab and turn it in as a notebook :
+
+What I am looking for here is: 
+- seeing a good Null/alternative hypothesis statement and treatment, with a clear Null and Alternative spelled out AND -
+- written out as a formula, and 
+- a good interpretation of the Z value you obtain in terms of ability or inability to reject the Null Hypothesis. 
+
+Here is the forumla for the Z test:
+
+Z ~ (mean(pop) - mean(sample)) / (stdev / sqrt(N))
+
+And the value you obtain is __how many standard deviations away from the mean(pop) your mean(sample) is__.
+
+The chapter of Statistics In a Nutshell that covers these topics is called Inferential statistics. It is chapter 3 in the hard copies of the book in the CUSP library, but it was moved to chapter 7 in the online book version which is in the link. Same content more or less.
+
+### GRADING: 
+
+Your notebook must display
+- the complete formulation of the hypothesis to be tested
+- The formula for the hypothesis
+- the chosen statistical significance, states in the right place of the workflow
+- the calculation of the Z statistics
+- the interpretation of the Z statistics
